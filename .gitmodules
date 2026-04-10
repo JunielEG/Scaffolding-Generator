@@ -1,3 +1,6 @@
 [submodule "tools/cpp-cli"]
 	path = tools/cpp-cli
 	url = https://github.com/JunielEG/cpp-cli.git
+[submodule "tools/py-cli"]
+	path = tools/py-cli
+	url = https://github.com/JunielEG/py-cli.git
