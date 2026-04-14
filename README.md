@@ -1,4 +1,4 @@
-# Scaffolding Generator
+# Scaffolding Tooling
 
 A collection of command-line tools that generate project boilerplate for different languages and stacks. Each tool installs globally and works from any terminal.
 
