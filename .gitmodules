@@ -4,3 +4,6 @@
 [submodule "tools/py-cli"]
 	path = tools/py-cli
 	url = https://github.com/JunielEG/py-cli.git
+[submodule "tools/scaff-cli"]
+	path = tools/scaff-cli
+	url = https://github.com/JunielEG/scaff-cli.git

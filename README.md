@@ -12,7 +12,8 @@ A collection of command-line tools that generate project boilerplate for differe
 | Tool | Language / Stack | Status |
 |---|---|---|
 | [cpp-cli](https://github.com/JunielEG/cpp-cli) | C++ + CMake | Available |
-| py-cli | Python | Coming soon |
+| [scaff-cli](https://github.com/JunielEG/scaff-cli) | Doesn't apply | Partially Implemented |
+| [py-cli](https://github.com/JunielEG/py-cli) | Python | Coming soon |
 | java-cli | Java | Coming soon |
 | js-cli | JavaScript / Node.js | Coming soon |
 | web-cli | HTML / CSS / JS | Coming soon |
