@@ -23,7 +23,6 @@ rem -- directorio no vacio pero sin repo, clonar en temp y mover
 dir /b /a | findstr "." > nul
 if not errorlevel 1 (
     echo   source    cloning to temp...
-pause
     if exist "%TEMP%\scaffolding-setup" rmdir /s /q "%TEMP%\scaffolding-setup"
     git clone "%REPO_URL%" "%TEMP%\scaffolding-setup"
 
